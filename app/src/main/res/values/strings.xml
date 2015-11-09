@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Work4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_contacts">通讯录</string>
+    <string name="title_activity_android_manifest">AndroidManifest</string>
+</resources>
